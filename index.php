@@ -14,10 +14,9 @@
     <title>Hello, world!</title>
   </head>
   <body>
-<nav class="navbar navbar-light bg-light">
+<nav class="navbar navbar-dark bg-dark">
   <a class="navbar-brand" href="#">
-    <i class="fa fa-calendar d-inline-block align-top" width="30" height="30" ></i>
-    Fadilah
+    Fadilah.id
   </a>
 </nav>
 
