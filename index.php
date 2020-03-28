@@ -35,8 +35,8 @@
   </ol>
 </nav>
     <div style="text-align:center; margin:30px;">
-        <img src="the unbreakable story.png" width="30" height="30">
-        <h3 class="text-light">unbreakable</j3>
+        <img src="the unbreakable story.png" width="50" height="50">
+        <h3 class="text-light">On progress</h3>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
