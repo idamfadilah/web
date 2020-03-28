@@ -34,8 +34,9 @@
     <li class="breadcrumb-item active" aria-current="page">Data</li>
   </ol>
 </nav>
-    <div>
+    <div style="text-align:center;">
         <img src="the unbreakable story.png">
+        <h3 class="text-light">Unbreakable</j3>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
